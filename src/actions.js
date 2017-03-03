@@ -7,7 +7,7 @@ export const SET_POSTS_PAGE = 'SET_POSTS_PAGE';
 export const SET_POSTS_LIMIT = 'SET_POSTS_LIMIT';
 export const SET_POSTS_TOTAL = 'SET_POSTS_TOTAL';
 
-const apiBaseUrl = 'http://jsonplaceholder.typicode.com';
+const apiBaseUrl = 'https://jsonplaceholder.typicode.com';
 
 export const setPosts = (posts) => ({
     type: SET_POSTS,
