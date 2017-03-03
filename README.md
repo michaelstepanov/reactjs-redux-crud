@@ -25,4 +25,4 @@ So, the application's UI may ferlect not exactly as expected, for example, posts
 
 ## Live demo
 
-	http://.../
+	https://shrouded-castle-90870.herokuapp.com/posts
